@@ -1,0 +1,8 @@
+
+        train: C:/Users/dental-1/Documents/dent_seg/6_train_yolo_four_class_tooth_classification/data/images/train
+        val: C:/Users/dental-1/Documents/dent_seg/6_train_yolo_four_class_tooth_classification/data/images/valid
+        test: C:/Users/dental-1/Documents/dent_seg/6_train_yolo_four_class_tooth_classification/data/images/test
+
+        nc: 4
+        names: ['molar', 'premolar', 'canine', 'incisor']
+        
