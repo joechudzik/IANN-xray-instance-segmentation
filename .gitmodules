@@ -1,0 +1,3 @@
+[submodule "3_training_code/tooth_numbering/yolov5_2"]
+	path = 3_training_code/tooth_numbering/yolov5_2
+	url = https://github.com/ultralytics/yolov5.git
