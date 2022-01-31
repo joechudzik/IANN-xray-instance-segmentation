@@ -1,0 +1,8 @@
+
+        train: C:/Users/dental-1/Documents/dent_seg/8_evaluation/data/cate6/images/train
+        val: C:/Users/dental-1/Documents/dent_seg/8_evaluation/data/cate6/images/valid
+        test: C:/Users/dental-1/Documents/dent_seg/8_evaluation/data/cate6/images/test
+
+        nc: 1
+        names: ['tooth']
+        
